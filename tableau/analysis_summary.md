@@ -1,1 +1,2 @@
 - Channel performance metrics
+- Virality and trend predictions
