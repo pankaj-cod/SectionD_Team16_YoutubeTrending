@@ -397,10 +397,11 @@ Deduplication Logic:
 
 | Team Member | Dataset&Sourcing | ETL &Cleaning | EDA &Analysis | Statistica lAnalysis | TableauDashboa rd | ReportWriting | PPT &Viva |
 | ----------- | ---------------- | ------------- | ------------- | -------------------- | ----------------- | ------------- | --------- |
-| Name 1      |                  |               |               |                      |                   |               |           |
-| Name 2      |                  |               |               |                      |                   |               |           |
-| Name 3      |                  |               |               |                      |                   |               |           |
-| Name 4      |                  |               |               |                      |                   |               |           |
-| Name 5      |                  |               |               |                      |                   |               |           |
+| Yashi       |                  |      [X]      |      [X]      |                      |       [X]         |               |           |
+| Pankaj      |       [X]        |               |               |                      |       [X]         |               |           |
+| Vikash      |                  |      [X]      |      [X]      |                      |                   |               |           |
+| Abhishek    |                  |               |      [X]      |         [X]          |                   |               |           |
+| Kanishk     |                  |               |               |                      |                   |      [X]      |           |
+| Sarthak     |                  |               |               |                      |                   |               |    [X]    |
 
-Team Lead Signature: _____________________________________ Date: _______________
+Team Lead Signature: ___________Yashi Agrawal__________________________ Date: _____29 April 2026__________
