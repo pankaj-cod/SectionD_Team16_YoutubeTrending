@@ -143,80 +143,20 @@ Enables creators and strategists to optimize upload timing, focus on high-perfor
 ## Repository Structure
 
 ```text
-
-
 SectionD_Team16_YoutubeTrending/
-
-
-|-- README.md
-
-
-|-- data/
-
-
-|   |-- raw/
-
-
-|   `-- processed/
-
-
-|-- notebooks/
-
-
-|   |-- 01_extraction.ipynb
-
-
-|   |-- 02_cleaning.ipynb
-
-
-|   |-- 03_eda.ipynb
-
-
-|   |-- 04_statistical_analysis.ipynb
-
-
-|   `-- 05_final_load_prep.ipynb
-
-
-|-- scripts/
-
-
-|   `-- etl_pipeline.py
-
-
-|-- tableau/
-
-
-|   |-- screenshots/
-
-
-|   `-- dashboard_links.md
-
-
-|-- reports/
-
-
-|   |-- README.md
-
-
-|   |-- project_report_template.md
-
-
-|   `-- presentation_outline.md
-
-
-|-- docs/
-
-
-|   `-- data_dictionary.md
-
-
-|-- DVA-oriented-Resume/
-
-
-`-- DVA-focused-Portfolio/
-
-
+├── data/
+│   ├── raw/                 <- Original datasets
+│   └── processed/           <- Cleaned & transformed data
+├── notebooks/               <- Analysis & modeling notebooks
+├── src/                     <- Production-grade ETL pipeline
+├── reports/
+│   ├── assets/              <- Dashboard recordings & screenshots
+│   └── YouTube_Trending_Intelligence.pdf <- Final findings
+├── docs/                    <- Data dictionary & dashboard links
+├── DVA-focused-Portfolio/   <- Career-oriented assets
+├── DVA-focused-Resume/      <- Professional resume
+├── README.md
+└── requirements.txt
 ```
 
 ---
