@@ -20,19 +20,6 @@ A 2-week industry simulation capstone using Python, GitHub, and Tableau to conve
 | Institute       | Newton School of Technology                              |
 | Submission Date | April 29, 2026                                           |
 
----
-
-## Team Members
-
-| Name     | Role |
-| -------- | ---- |
-| Vikash   |      |
-| Yashi    |      |
-| Pankaj   |      |
-| Abhishek |      |
-| Sarthak  |      |
-| Kanishk  |      |
-
 ## Business Problem
 
 YouTube’s trending ecosystem is highly competitive, where early performance determines whether content achieves massive reach or fades quickly. For creators, media companies, and platform teams, identifying what drives virality is essential for optimizing publishing strategies and maximizing engagement. The challenge lies in understanding timing, content type, and audience behavior at scale. This project transforms raw trending data into actionable insights to guide content strategy, improve engagement, and enhance visibility—especially within the Indian market.
