@@ -10,15 +10,15 @@ A 2-week industry simulation capstone using Python, GitHub, and Tableau to conve
 
 ## Project Overview
 
-| Field           | Details                                                |
-| --------------- | ------------------------------------------------------ |
-| Project Title   | YouTube Trending Analytics: Decoding Virality in India |
-| Sector          | Digital Media / Content Platforms                      |
-| Team ID         | Section D - Team 16                                    |
-| Section         | D                                                      |
-| Faculty Mentor  | NST DVA Faculty Panel                                  |
-| Institute       | Newton School of Technology                            |
-| Submission Date | April 29, 2026                                         |
+| Field           | Details                                                  |
+| --------------- | ---------------------------------------------------------|
+| Project Title   | YouTube Trending Analytics: Decoding Virality on Youtube |
+| Sector          | Digital Media / Content Platforms                        |
+| Team ID         | Section D - Team 16                                      |
+| Section         | D                                                        |
+| Faculty Mentor  | NST DVA Faculty Panel                                    |
+| Institute       | Newton School of Technology                              |
+| Submission Date | April 29, 2026                                           |
 
 ---
 
