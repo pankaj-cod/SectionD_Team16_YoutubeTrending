@@ -7,4 +7,4 @@
 | Pankaj Upadhyay | | |
 | Sarthak Mathapati | | |
 | Vikash Kumar | [GitHub Portfolio](https://github.com/devVIKASHk/PortFolio_DVA) | [Live Link](https://port-folio-dva.vercel.app) 
-| Yashi Agrawal | | |
+| Yashi Agrawal | [GitHub Portfolio](https://github.com/11yashiagrawal/DVA_Portfolio)| [Live Link](https://dva-portfolio-nine-self.vercel.app/)|
