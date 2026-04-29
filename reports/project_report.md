@@ -261,8 +261,6 @@ Five dashboards:
 
 * Overview Dashboard
 * Timing & Virality Dashboard
-* Channel Performance Dashboard
-* India Strategy Dashboard
 * Category Performance Dashboard
 
 Features:
