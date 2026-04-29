@@ -17,7 +17,7 @@ GitHub Repository:
 [https://github.com/pankaj-cod/SectionD_Team16_YoutubeTrending](https://github.com/pankaj-cod/SectionD_Team16_YoutubeTrending)
 
 Tableau Dashboard:
- (To be added)
+ [Dashboards](https://public.tableau.com/app/profile/yashi.agrawal/vizzes)
 
 # EXECUTIVE SUMMARY
 
