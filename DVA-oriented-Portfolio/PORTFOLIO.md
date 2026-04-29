@@ -6,5 +6,5 @@
 | Kanishk Sharma |[GitHub Portfolio](https://github.com/kanishksharma04)| [Live Link](https://dva-portfolio-gray.vercel.app/)|
 | Pankaj Upadhyay | | |
 | Sarthak Mathapati | | |
-| Vikash Kumar | | |
+| Vikash Kumar | [GitHub Portfolio](https://github.com/devVIKASHk/PortFolio_DVA) | [Live Link](https://port-folio-dva.vercel.app) 
 | Yashi Agrawal | | |
