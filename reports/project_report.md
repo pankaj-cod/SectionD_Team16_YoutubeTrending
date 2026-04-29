@@ -541,11 +541,11 @@ A data-driven approach combining content strategy, timing, and engagement optimi
 
 | Team Member | Dataset&Sourcing | ETL &Cleaning | EDA &Analysis | Statistica lAnalysis | TableauDashboa rd | ReportWriting | PPT &Viva |
 | ----------- | ---------------- | ------------- | ------------- | -------------------- | ----------------- | ------------- | --------- |
-| Yashi       |                  |      [X]      |      [X]      |                      |       [X]         |               |           |
+| Yashi       |                  |      [X]      |      [X]      |                      |       [X]         |      [X]      |    [X]    |
 | Pankaj      |       [X]        |               |               |                      |       [X]         |               |           |
 | Vikash      |                  |      [X]      |      [X]      |                      |                   |               |           |
 | Abhishek    |                  |               |      [X]      |         [X]          |                   |               |           |
-| Kanishk     |                  |               |               |                      |                   |      [X]      |           |
+| Kanishk     |                  |               |               |                      |       [X]         |      [X]      |           |
 | Sarthak     |                  |               |               |                      |                   |               |    [X]    |
 
 Team Lead Signature: ___________Yashi Agrawal__________________________ Date: _____29 April 2026__________
