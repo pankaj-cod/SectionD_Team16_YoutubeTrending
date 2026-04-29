@@ -267,14 +267,14 @@ SectionD_Team16_YoutubeTrending/
 
 ## Contribution Matrix
 
-| Team Member | Contribution Areas |
-| ----------- | ------------------ |
-| Vikash      |                    |
-| Yashi       |                    |
-| Pankaj      |                    |
-| Abhishek    |                    |
-| Sarthak     |                    |
-| Kanishk     |                    |
+| Team Member | Contribution Areas                          |
+| ----------- | --------------------------------------------|
+| Vikash      | ETL, EDA & Analysis                         |
+| Yashi       | Feature Engineering, Analysis & Dashboarding|
+| Pankaj      | Dataset Sourcing & Dashboarding             |
+| Abhishek    | Statistical Analysis & Data Cleaning        |
+| Sarthak     | Presentation & Analysis                     |
+| Kanishk     | Project Report & Analysis                   |
 
 ---
 
